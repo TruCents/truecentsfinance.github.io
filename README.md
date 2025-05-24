@@ -8,7 +8,7 @@ Welcome to the official website for **TruCents Finance**, a platform dedicated t
 
 ## About
 
-TruCents Finance bridges the gap in traditional education by providing easy-to-understand, hands-on financial education. We offer interactive tools, workshops, and resources tailored for students, families, and schools.
+TruCents Finance bridges the gap in traditional education by providing easy-to-understand, hands-on financial education. We offer 1 on 1 workshops and group lessons tailored for students, families, and schools.
 
 ---
 
