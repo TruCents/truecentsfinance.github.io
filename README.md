@@ -14,10 +14,9 @@ TruCents Finance bridges the gap in traditional education by providing easy-to-u
 
 ## Features
 
-- Interactive budgeting and saving tools designed for young learners  
-- Step-by-step lessons on money basics, banking essentials, and introductory investing  
-- Workshops and digital resources for schools and community groups  
-- Personalized guidance to foster responsible financial habits  
+- Step-by-step lessons on money basics, budgeting, banking essentials, and introductory investing  
+- Workshops for schools and community groups  
+- Personalized guidance to foster responsible financial habits in kids 
 
 ---
 
