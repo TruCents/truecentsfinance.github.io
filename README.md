@@ -21,22 +21,9 @@ TruCents Finance bridges the gap in traditional education by providing easy-to-u
 
 ---
 
-## How to View
-
-You can view the live website [here](#) (replace with your GitHub Pages URL once deployed).
-
-To run the site locally:
-
-1. Clone this repository:  
-   `git clone https://github.com/yourusername/trucents-finance.git`
-
-2. Open `index.html` in your preferred web browser.
-
----
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit issues or pull requests for improvements, bug fixes, or new features.
+Contributions are welcome! Please get in contact with us! Any donations will be used for improving our financial literacy program. Please feel free to submit issues or requests for improvements.
 
 ---
 
