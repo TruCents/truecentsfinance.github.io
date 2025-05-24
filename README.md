@@ -2,7 +2,7 @@
 
 # TruCents Finance Website
 
-Welcome to the official website for **TruCents Finance**, a platform dedicated to empowering young people with essential financial knowledge and skills that are rarely taught in schools. Our mission is to equip students aged 10–18 with practical lessons on budgeting, saving, banking, and investing — helping them build confidence and prepare for a secure financial future.
+Welcome to the official website for **TruCents Finance**, a platform dedicated to empowering young people with essential financial knowledge and skills that are rarely taught in schools. Our mission is to equip students of any age with practical lessons on budgeting, saving, banking, and investing — helping them build confidence and prepare for a secure financial future.
 
 ---
 
